@@ -35,3 +35,9 @@ The way its setup only supports 4 environment, but can be changed for other usec
 
 Tests can be run with  
 `yarn test or npm test`
+
+## License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B13887%2FThunderStorage.svg?type=shield)](https://app.fossa.com/projects/custom%2B13887%2FThunderStorage?ref=badge_shield)
+
+ThunderStorage is released under the MIT license. See [LICENSE](https://github.com/thundercore/ThunderStorage/blob/master/LICENSE) file for details.
