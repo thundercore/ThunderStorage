@@ -32,7 +32,7 @@
     "dotenv": "^6.1.0",
     "ethers": "^4.0.33",
     "helmet": "3.20.0",
-    "merge-deep": "^3.0.2",
+    "merge-deep": "^3.0.3",
     "morgan": "1.9.1",
     "nest-router": "^1.0.9",
     "pg": "^7.12.1",
