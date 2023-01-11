@@ -28,7 +28,7 @@
     "@nestjs/typeorm": "^6.1.3",
     "backoff-rxjs": "^6.3.2",
     "class-transformer": "0.2.3",
-    "class-validator": "^0.10.0",
+    "class-validator": "^0.14.0",
     "dotenv": "^6.1.0",
     "ethers": "^4.0.33",
     "helmet": "3.20.0",
